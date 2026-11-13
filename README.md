@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subhangi Sarmah
+#  Hi, I'm Subhangi Sarmah
 
 ### **Aspiring Data Analyst | Data Analytics Enthusiast**
 
@@ -20,7 +20,7 @@ I am passionate about continuously improving my analytical and technical skills 
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analysis
+### Data Analysis
 - Microsoft Excel
 - Advanced Excel
 - SQL
@@ -28,14 +28,14 @@ I am passionate about continuously improving my analytical and technical skills 
 - Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
 
-### 📈 Business Intelligence & Visualization
+### Business Intelligence & Visualization
 - Power BI
 - Tableau
 - Interactive Dashboards
 - KPI Reporting
 - Data Storytelling
 
-### 🧮 Data Analytics
+### Data Analytics
 - Data Modeling
 - Data Relationships
 - DAX & Measures
@@ -43,7 +43,7 @@ I am passionate about continuously improving my analytical and technical skills 
 - Pivot Tables & Pivot Charts
 - Statistical Analysis
 
-### 💻 Programming & Tools
+### Programming & Tools
 - Python
 - Jupyter Notebook
 - Git & GitHub
@@ -54,17 +54,17 @@ I am passionate about continuously improving my analytical and technical skills 
 
 ## 📚 Currently Learning
 
-- 🐍 Python for Data Analysis
-- 📊 Statistics & Exploratory Data Analysis
-- 🤖 Machine Learning Fundamentals
-- 🧠 Advanced SQL & Analytical Techniques
-- 📈 Advanced Data Visualization
+-  Python for Data Analysis
+-  Statistics & Exploratory Data Analysis
+-  Machine Learning Fundamentals
+-  Advanced SQL & Analytical Techniques
+-  Advanced Data Visualization
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍕 Amazon Sales Performance Analysis — Excel
+###  Amazon Sales Performance Analysis — Excel
 
 An interactive Excel dashboard developed to analyze sales performance, profitability, customer behavior, regional performance, and payment methods.
 
@@ -74,7 +74,7 @@ An interactive Excel dashboard developed to analyze sales performance, profitabi
 
 ---
 
-### ✈️ Skyline Airline Database — SQL
+###  Skyline Airline Database — SQL
 
 A SQL-based database project focused on airline operations, passenger information, flight details, and employee data using relational database concepts.
 
@@ -84,7 +84,7 @@ A SQL-based database project focused on airline operations, passenger informatio
 
 ---
 
-### 🛒 Walmart Retail Sales Analysis — Power BI
+###  Walmart Retail Sales Analysis — Power BI
 
 An interactive Power BI dashboard designed to analyze retail sales performance, store performance, department-wise sales, and historical sales trends.
 
@@ -94,7 +94,7 @@ An interactive Power BI dashboard designed to analyze retail sales performance, 
 
 ---
 
-### 👥 HR Analytics Dashboard — Tableau
+###  HR Analytics Dashboard — Tableau
 
 An interactive HR analytics dashboard focused on employee attrition, workforce demographics, department-wise analysis, job satisfaction, and employee distribution.
 
@@ -112,14 +112,6 @@ An interactive HR analytics dashboard focused on employee attrition, workforce d
 
 ---
 
-## 🌱 Beyond the Code
-
-- 🔍 **Curious & Analytical** — I enjoy discovering patterns and finding insights hidden in data.
-- 📊 **Visualization Enthusiast** — I believe good visualizations make complex information easier to understand.
-- 🧠 **Continuous Learner** — Always exploring new tools, technologies, and analytical techniques.
-- 🚀 **Project-Driven** — I believe in learning by building practical projects and solving real-world problems.
-
----
 
 ## 🎓 Education
 
@@ -127,16 +119,16 @@ An interactive HR analytics dashboard focused on employee attrition, workforce d
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-💼 **LinkedIn:** https://www.linkedin.com/in/subhangi-sarmah-b68530413/
+ **LinkedIn:** https://www.linkedin.com/in/subhangi-sarmah-b68530413/
 
-💻 **GitHub:** https://github.com/Subhangisarmah2003
+ **GitHub:** https://github.com/Subhangisarmah2003
 
-📧 **Email:** shubhangisharma824@gmail.com
+ **Email:** shubhangisharma824@gmail.com
 
 ---
 
-### ✨ Learn. Analyze. Visualize. Grow.
+###  Learn. Analyze. Visualize. Grow.
 
 *Building a data-driven career, one project at a time.*
