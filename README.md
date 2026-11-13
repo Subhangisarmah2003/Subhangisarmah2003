@@ -125,7 +125,6 @@ An interactive HR analytics dashboard focused on employee attrition, workforce d
 
  **GitHub:** https://github.com/Subhangisarmah2003
 
- **Email:** shubhangisharma824@gmail.com
 
 ---
 
